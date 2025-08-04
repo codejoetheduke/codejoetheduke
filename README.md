@@ -16,6 +16,9 @@
 
 ---
 
+<div align="center">
+
+
 ## 🛠️ Tech Arsenal
 
 **Languages & Frameworks**
@@ -35,15 +38,17 @@
 
 ---
 
+
 ## 📊 GitHub Analytics
 
-![The Duke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codejoetheduke\&show_icons=true\&theme=tokyonight)
+![The Duke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codejoetheduke&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codejoetheduke\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codejoetheduke&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=codejoetheduke\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codejoetheduke&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=codejoetheduke\&theme=tokyonight\&row=1\&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=codejoetheduke&theme=tokyonight&row=1&column=6)
+
 
 ---
 
@@ -55,6 +60,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://thedukesportfolio.vercel.app)
 
 ---
+
+</div>
+
+
 ## 🥇 Zindi Competition Wins
 
 ![Zindi](https://img.shields.io/badge/Zindi-1st%20Place%20Winner-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy... ) 

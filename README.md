@@ -74,6 +74,18 @@
 
 ---
 </div>
+---
+
+## 📰 Publications
+
+* **[How I Won the Localised Precipitation Forecasting Challenge: My Full ML Pipeline](https://medium.com/@dukekongo16/how-i-won-the-localised-precipitationforecasting-challenge-my-full-ml-pipeline-b28f551f43ee)**  
+  *Aug 2025* — Detailed breakdown of my first-place pipeline for the Localised Precipitation Forecasting Challenge.
+
+* **[First Place Solution: Amini Soil Prediction, a Hundred Heads Are Better Than One](https://zindi.africa/learn/first-place-solution-amini-soil-prediction-a-hundred-headsare-better-than-one)**  
+  *Jul 2025* — Insights into our collaborative ensemble strategy that secured 1st place in the Amini Soil Prediction Challenge.
+
+* **[Never Underestimate Linear Regression — Winning Solution for DSN Free AI Classes in Every City 2025 on Zindi](https://medium.com/@dukekongo16/never-underestimate-linear-regression-winningsolution-for-dsn-free-ai-classes-in-every-city-1fcfdbc253ec)**  
+  *Jun 2025* — How a well-optimized linear model won the DSN Free AI Classes competition.
 
 ---
 

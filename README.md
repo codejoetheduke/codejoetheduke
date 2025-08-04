@@ -1,6 +1,11 @@
-# Hi there, I’m **Duke** 👑 (aka CodeJoe)
-
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:6a11cb,100:2575fc\&height=200\&section=header\&text=Hey!%20I'm%20CodeJoe!\&fontSize=40\&fontAlignY=35\&desc=Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver\&descSize=20\&descAlignY=55)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=30&duration=2500&pause=800&color=00C9FF&left=true&vCenter=true&width=700&lines=👨‍💻+Developer;🤖+Machine+Learning+Engineer;🏆+1st+Place+Zindi+Competition+Winner;🌍+Open+Source+Contributor)](https://git.io/typing-svg)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=codejoetheduke&color=blueviolet&style=for-the-badge)
+
+
 
 ## 👨‍💻 About Me
 
@@ -33,6 +38,7 @@
 ## 📊 GitHub Analytics
 
 ![The Duke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codejoetheduke\&show_icons=true\&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codejoetheduke\&layout=compact\&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=codejoetheduke\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
@@ -49,7 +55,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://thedukesportfolio.vercel.app)
 
 ---
-## 🥇 Zindi Competition Wins (First‑Place Solutions)
+## 🥇 Zindi Competition Wins
+
+![Zindi](https://img.shields.io/badge/Zindi-1st%20Place%20Winner-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy... ) 
 
 * [**Amini Soil Challenge – 1st Place**](https://github.com/codejoetheduke/First-Place-Solution-Amini-Soil-Challenge)  
   A full Jupyter‐based pipeline for predicting soil nutrients—end‑to‑end feature engineering, modeling, and ensembling.
@@ -73,4 +81,6 @@
 **"Building code that matters."**
 
 ---
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=codejoetheduke&label=VISITORS&countColor=%23ba68c8)
 

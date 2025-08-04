@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 - 💡 **Developer** | **AI & ML Enthusiast** | **Open-Source Contributor**
-- 🏆 **3x First-Place Winner** at **Zindi ML Competitions**
+- 🏆 **4x First-Place Winner** at **Zindi ML Competitions**
 - 🚀 Building **AI-powered products** that solve **real-world problems**
 - 🌍 Proudly coding from **Ghana**, impacting the world
 

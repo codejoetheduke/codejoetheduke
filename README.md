@@ -66,6 +66,8 @@
 | **Localised Precipitation Forecasting Challenge (Brazzaville)** | 🥇 1st Place | [Repo](https://github.com/codejoetheduke/First-Place-Solution-Localised-Precipitation-Forecasting-in-Brazzaville-Using-AI) |
 | **DSN “Free AI Classes in Every City 2025”** | 🥇 1st Place | [Repo](https://github.com/codejoetheduke/First-Place-Solution-DSN-Free-AI-Classes) |
 | **Store Sales Forecasting Challenge** | 🥇 1st Place | [Repo](https://github.com/codejoetheduke/First-Place-Solution-Store-Sales-Challenges) |
+
+Guys make sure to star
 ---
 
 ## 🌐 Let’s Connect

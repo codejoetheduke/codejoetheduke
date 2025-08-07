@@ -67,7 +67,7 @@
 | **DSN “Free AI Classes in Every City 2025”** | 🥇 1st Place | [Repo](https://github.com/codejoetheduke/First-Place-Solution-DSN-Free-AI-Classes) |
 | **Store Sales Forecasting Challenge** | 🥇 1st Place | [Repo](https://github.com/codejoetheduke/First-Place-Solution-Store-Sales-Challenges) |
 
-Guys make sure to star
+Make sure to star these Repo⭐🤝. Really means a lot!🙏
 ---
 
 ## 🌐 Let’s Connect
@@ -76,7 +76,7 @@ Guys make sure to star
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dukekongo16@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://thedukesportfolio.vercel.app)
 
----
+
 </div>
 ---
 

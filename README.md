@@ -75,10 +75,9 @@ Make sure to star these Repo⭐🤝. Really means a lot!🙏
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://X.com/CodeJoeTheDuke)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dukekongo16@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://thedukesportfolio.vercel.app)
-
+---
 
 </div>
----
 
 ## 📰 Publications
 

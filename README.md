@@ -13,13 +13,13 @@
 - 🏆 **4x First-Place Winner** at **Zindi ML Competitions**
 - 🚀 Building **AI-powered products** that solve **real-world problems**
 - 🌍 Proudly coding from **Ghana**, impacting the world
-
 ---
 
 ## 🔥 Current Focus
 - **Building:** Edge-deployed AI apps (**Next.js + FastAPI + ONNX**)  
 - **Exploring:** **LLM fine-tuning (QLoRA)** for low-resource tasks  
-- **Winning:** More **Zindi & Kaggle competitions**  
+- **Winning:** More **Zindi & Kaggle competitions**
+- **Solving:** 🔥 LEETCODE!
 
 ---
 

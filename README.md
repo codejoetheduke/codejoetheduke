@@ -56,9 +56,8 @@
 
 ---
 
-## 🥇 Zindi Competition Wins
-
 <div align="center">
+## 🥇 Zindi Competition Wins
 
 | Competition | Position | Solution |
 |-------------|----------|-----------|

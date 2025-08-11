@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Allow manual run
 
 permissions:
-  contents: write # <-- must be here at the root level
+  contents: write
 
 jobs:
   update-readme:
@@ -31,5 +31,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Updated Zindi stats"
+          git commit -m "Updated Zindi stats" || echo "No changes to commit"
           git push

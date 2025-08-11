@@ -13,14 +13,20 @@ data = r.json()['data']
 
 # Format stats
 stats_md = f"""
-**Zindi Stats (Updated {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC)**  
+<div align="center">
 
-🏆 Rank: {data['rank']}  
-⭐ Points: {data['points']}  
-🥇 Best Rank: {data['best_rank']}  
-🌍 Country: {data['country']}  
+## 📈 My Live Zindi Stats
 
-<img src="{data['avatar']}" alt="Zindi Avatar" width="100"/>
+![Rank](https://img.shields.io/badge/🏆%20Rank-{data['rank']}-blueviolet?style=for-the-badge)
+![Points](https://img.shields.io/badge/⭐%20Points-{data['points']}-ff69b4?style=for-the-badge)
+![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-{data['best_rank']}-brightgreen?style=for-the-badge)
+![Country](https://img.shields.io/badge/🌍%20Country-{data['country'].replace(' ', '%20')}-orange?style=for-the-badge)
+
+<img src="{data['avatar']}" width="120" style="border-radius:50%;margin-top:10px;"/>
+
+_Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC_
+
+</div>
 """
 
 # Read README

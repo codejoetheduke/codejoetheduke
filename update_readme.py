@@ -14,11 +14,13 @@ data = r.json()['data']
 # Format stats
 stats_md = f"""
 **Zindi Stats (Updated {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC)**  
+
 🏆 Rank: {data['rank']}  
 ⭐ Points: {data['points']}  
 🥇 Best Rank: {data['best_rank']}  
 🌍 Country: {data['country']}  
-![Avatar]({data['avatar']})
+
+<img src="{data['avatar']}" alt="Zindi Avatar" width="100"/>
 """
 
 # Read README

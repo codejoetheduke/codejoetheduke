@@ -23,7 +23,14 @@
 
 <!--ZINDI_STATS_START-->
 
-_(Fetching latest stats...)_
+**Zindi Stats (Updated 2025-08-11 09:03:58 UTC)**  
+
+🏆 Rank: 13  
+⭐ Points: 13450  
+🥇 Best Rank: 11  
+🌍 Country: Ghana  
+
+<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/thumb_1682a38e-0541-4c7c-bdd9-471ccdb93c9b.jpg" alt="Zindi Avatar" width="100"/>
 
 <!--ZINDI_STATS_END-->
 

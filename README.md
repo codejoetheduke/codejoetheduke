@@ -15,6 +15,14 @@
 - 🌍 Proudly coding from **Ghana**, impacting the world
 ---
 
+## 📈 Live Zindi Stats  
+<!--ZINDI_STATS_START-->
+*(Fetching latest stats...)*
+<!--ZINDI_STATS_END-->
+
+---
+
+
 ## 🔥 Current Focus
 - **Building:** Edge-deployed AI apps (**Next.js + FastAPI + ONNX**)  
 - **Exploring:** **LLM fine-tuning (QLoRA)** for low-resource tasks  

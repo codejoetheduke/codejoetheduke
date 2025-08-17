@@ -28,8 +28,15 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "codejoetheduke" # your GitHub username
+          git config --global user.email "dukekongo16@gmail.com" # must match a verified email on your GitHub account
           git add README.md
           git commit -m "Updated Zindi stats" || echo "No changes to commit"
           git push
+
+      - name: Force contribution (optional)
+        run: |
+          echo "Last updated: $(date)" > last_updated.txt
+          git add last_updated.txt
+          git commit -m "chore: daily timestamp $(date)"
+          git push || true

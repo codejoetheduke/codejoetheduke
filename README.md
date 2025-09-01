@@ -25,14 +25,14 @@
 
 ## 📈 My Live Zindi Stats
 
-![Rank](https://img.shields.io/badge/🏆%20Rank-12-blueviolet?style=for-the-badge)
-![Points](https://img.shields.io/badge/⭐%20Points-13255-ff69b4?style=for-the-badge)
-![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-11-brightgreen?style=for-the-badge)
+![Rank](https://img.shields.io/badge/🏆%20Rank-10-blueviolet?style=for-the-badge)
+![Points](https://img.shields.io/badge/⭐%20Points-13929-ff69b4?style=for-the-badge)
+![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-10-brightgreen?style=for-the-badge)
 ![Country](https://img.shields.io/badge/🌍%20Country-Ghana-orange?style=for-the-badge)
 
 <img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/thumb_1682a38e-0541-4c7c-bdd9-471ccdb93c9b.jpg" width="120" style="border-radius:50%;margin-top:10px;"/>
 
-_Last updated: 2025-09-01 06:31:38 UTC_
+_Last updated: 2025-09-01 12:40:30 UTC_
 
 </div>
 

@@ -1,3 +1,4 @@
+
 import requests
 from datetime import datetime
 
@@ -24,6 +25,7 @@ stats_md = f"""
   <img src="{data['big_avatar']}" width="200"/>
 </td>
 <td>
+
 ![Rank](https://img.shields.io/badge/🏆%20Rank-{data['rank']}-blueviolet?style=for-the-badge)<br>
 ![Points](https://img.shields.io/badge/⭐%20Points-{data['points']}-ff69b4?style=for-the-badge)<br>
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-{data['best_rank']}-brightgreen?style=for-the-badge)<br>

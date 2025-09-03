@@ -31,8 +31,9 @@ stats_md = f"""
 
 </div>
 
+<br>
 
-<img src="{data['big_avatar']}" width="240" style="border-radius:50%;margin-top:10px;"/>
+<img src="{data['big_avatar']}" width="300" style="border-radius:50%;margin-top:10px;"/>
 
 _Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC_
 

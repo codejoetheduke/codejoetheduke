@@ -22,7 +22,12 @@ stats_md = f"""
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-{data['best_rank']}-brightgreen?style=for-the-badge)
 ![Country](https://img.shields.io/badge/🌍%20Country-{data['country'].replace(' ', '%20')}-orange?style=for-the-badge)
 
-<img src="{data['avatar']}" width="120" style="border-radius:50%;margin-top:10px;"/>
+<!-- Medals -->
+![Gold](https://img.shields.io/badge/🥇%20Gold-{data['user_medals_summary_gold_count']}-FFD700?style=for-the-badge)
+![Silver](https://img.shields.io/badge/🥈%20Silver-{data['user_medals_summary_silver_count']}-C0C0C0?style=for-the-badge)
+![Bronze](https://img.shields.io/badge/🥈%20Bronze-{data['user_medals_summary_bronze_count']}-CD7F32?style=for-the-badge)
+
+<img src="{data['big_avatar']}" width="120" style="border-radius:50%;margin-top:10px;"/>
 
 _Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC_
 

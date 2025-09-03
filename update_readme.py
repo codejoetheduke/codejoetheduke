@@ -22,12 +22,20 @@ stats_md = f"""
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-{data['best_rank']}-brightgreen?style=for-the-badge)
 ![Country](https://img.shields.io/badge/🌍%20Country-{data['country'].replace(' ', '%20')}-orange?style=for-the-badge)
 
-<!-- Medals -->
-![Gold](https://img.shields.io/badge/🥇%20Gold-{data['user_medals_summary_gold_count']}-FFD700?style=for-the-badge)
-![Silver](https://img.shields.io/badge/🥈%20Silver-{data['user_medals_summary_silver_count']}-C0C0C0?style=for-the-badge)
-![Bronze](https://img.shields.io/badge/🥈%20Bronze-{data['user_medals_summary_bronze_count']}-CD7F32?style=for-the-badge)
+<br><br>
 
-<img src="{data['big_avatar']}" width="120" style="border-radius:50%;margin-top:10px;"/>
+<!-- 🏅 Medals (Bigger & Centered) -->
+<div style="display:flex;justify-content:center;gap:20px;margin-top:10px;">
+  
+<img src="https://img.shields.io/badge/🥇%20Gold-{data['user_medals_summary_gold_count']}-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=40" height="60"/>
+<img src="https://img.shields.io/badge/🥈%20Silver-{data['user_medals_summary_silver_count']}-C0C0C0?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=40" height="60"/>
+<img src="https://img.shields.io/badge/🥉%20Bronze-{data['user_medals_summary_bronze_count']}-CD7F32?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=40" height="60"/>
+
+</div>
+
+<br>
+
+<img src="{data['big_avatar']}" width="360" style="border-radius:50%;margin-top:10px;"/>
 
 _Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC_
 

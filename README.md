@@ -31,6 +31,7 @@
   <img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_1de56bc7-9c9c-4e16-92fc-0806cd72c069.jpg" width="200"/>
 </td>
 <td>
+
 ![Rank](https://img.shields.io/badge/🏆%20Rank-10-blueviolet?style=for-the-badge)<br>
 ![Points](https://img.shields.io/badge/⭐%20Points-13899-ff69b4?style=for-the-badge)<br>
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-10-brightgreen?style=for-the-badge)<br>
@@ -49,7 +50,7 @@
 
 <br>
 
-_Last updated: 2025-09-03 15:27:48 UTC_
+_Last updated: 2025-09-03 15:31:51 UTC_
 
 </div>
 

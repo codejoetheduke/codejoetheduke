@@ -1,8 +1,5 @@
-import os
 import requests
 from datetime import datetime
-from PIL import Image, ImageDraw
-from io import BytesIO
 
 username = "CodeJoe"
 url = f"https://api.zindi.africa/v1/users/{username}"

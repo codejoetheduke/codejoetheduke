@@ -38,9 +38,9 @@ stats_md = f"""
 
 <!-- 🏅 Big Medals -->
 <div style="display:flex;justify-content:center;gap:40px;margin-top:20px;">
-  {gold_svg}
-  {silver_svg}
-  {bronze_svg}
+<img src="medals/gold.svg" width="160"/>
+<img src="medals/silver.svg" width="160"/>
+<img src="medals/bronze.svg" width="160"/>
 </div>
 
 <br>

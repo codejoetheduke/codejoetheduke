@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/🥉%20Bronze-6-CD7F32?style=for-the-badge" height="60"/>
 </div>
 
+<<<<<<< HEAD
 </td>
 </tr>
 </table>
@@ -51,6 +52,13 @@
 <br>
 
 _Last updated: 2025-09-03 15:13:11 UTC_
+=======
+<br>
+
+<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_1de56bc7-9c9c-4e16-92fc-0806cd72c069.jpg" width="300" style="border-radius:50%;margin-top:10px;"/>
+
+_Last updated: 2025-09-03 15:11:24 UTC_
+>>>>>>> 8b4a8ee62aac378a88a7d9db9112824d4a0409a5
 
 </div>
 

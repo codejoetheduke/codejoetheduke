@@ -15,20 +15,6 @@ headers = {
 r = requests.get(url, headers=headers)
 data = r.json()['data']
 
-# Download avatar
-avatar_url = data['big_avatar']
-avatar_res = requests.get(avatar_url, headers=headers)
-os.makedirs("assets", exist_ok=True)
-avatar_path = "assets/avatar.png"
-
-# Round avatar
-im = Image.open(BytesIO(avatar_res.content)).convert("RGBA")
-mask = Image.new("L", im.size, 0)
-draw = ImageDraw.Draw(mask)
-draw.ellipse((0, 0, im.size[0], im.size[1]), fill=255)
-im.putalpha(mask)
-im.save(avatar_path)
-
 # Format stats in a table (avatar left, stats right)
 stats_md = f"""
 <div align="center">
@@ -38,7 +24,7 @@ stats_md = f"""
 <table>
 <tr>
 <td width="250" align="center">
-  <img src="{avatar_path}" width="200"/>
+  <img src="{data['big_avatar']}" width="200"/>
 </td>
 <td align="center">
 

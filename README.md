@@ -31,12 +31,12 @@
   <img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_1de56bc7-9c9c-4e16-92fc-0806cd72c069.jpg" width="200"/>
 </td>
 <td align="center">
-
+<div style="display:flex;justify-content:center;gap:25px;margin-top:15px;">
 ![Rank](https://img.shields.io/badge/🏆%20Rank-10-blueviolet?style=for-the-badge)<br>
 ![Points](https://img.shields.io/badge/⭐%20Points-13899-ff69b4?style=for-the-badge)<br>
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-10-brightgreen?style=for-the-badge)<br>
 ![Country](https://img.shields.io/badge/🌍%20Country-Ghana-orange?style=for-the-badge)<br><br>
-
+</div>
 <!-- 🏅 Medals -->
 <div style="display:flex;justify-content:center;gap:25px;margin-top:15px;">
   <img src="https://img.shields.io/badge/🥇%20Gold-11-FFD700?style=for-the-badge" height="60"/>
@@ -50,7 +50,7 @@
 
 <br>
 
-_Last updated: 2025-09-03 15:20:51 UTC_
+_Last updated: 2025-09-03 15:24:42 UTC_
 
 </div>
 

@@ -1,3 +1,4 @@
+import os
 import requests
 from datetime import datetime
 
@@ -21,9 +22,16 @@ def make_medal_svg(label, count, color, emoji):
     </svg>
     """
 
+# Generate medal SVGs
 gold_svg = make_medal_svg("Gold", data['user_medals_summary_gold_count'], "#FFD700", "🥇")
 silver_svg = make_medal_svg("Silver", data['user_medals_summary_silver_count'], "#C0C0C0", "🥈")
 bronze_svg = make_medal_svg("Bronze", data['user_medals_summary_bronze_count'], "#CD7F32", "🥉")
+
+# Save them into medals/ folder
+os.makedirs("medals", exist_ok=True)
+with open("medals/gold.svg", "w", encoding="utf-8") as f: f.write(gold_svg)
+with open("medals/silver.svg", "w", encoding="utf-8") as f: f.write(silver_svg)
+with open("medals/bronze.svg", "w", encoding="utf-8") as f: f.write(bronze_svg)
 
 # Format stats
 stats_md = f"""

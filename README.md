@@ -25,24 +25,32 @@
 
 ## 📈 My Live Zindi Stats
 
-![Rank](https://img.shields.io/badge/🏆%20Rank-10-blueviolet?style=for-the-badge)
-![Points](https://img.shields.io/badge/⭐%20Points-13899-ff69b4?style=for-the-badge)
-![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-10-brightgreen?style=for-the-badge)
-![Country](https://img.shields.io/badge/🌍%20Country-Ghana-orange?style=for-the-badge)
+<table>
+<tr>
+<td width="250" align="center">
+  <img src="assets/avatar.png" width="200"/>
+</td>
+<td align="center">
 
-<!-- 🏅 Medals (Bigger & Centered) -->
-<div style="display:flex;justify-content:center;gap:20px;margin-top:10px;">
-  
-<img src="https://img.shields.io/badge/🥇%20Gold-11-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=160" height="80"/>
-<img src="https://img.shields.io/badge/🥈%20Silver-5-C0C0C0?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=160" height="80"/>
-<img src="https://img.shields.io/badge/🥉%20Bronze-6-CD7F32?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=160" height="80"/>
+![Rank](https://img.shields.io/badge/🏆%20Rank-10-blueviolet?style=for-the-badge)<br>
+![Points](https://img.shields.io/badge/⭐%20Points-13899-ff69b4?style=for-the-badge)<br>
+![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-10-brightgreen?style=for-the-badge)<br>
+![Country](https://img.shields.io/badge/🌍%20Country-Ghana-orange?style=for-the-badge)<br><br>
 
+<!-- 🏅 Medals -->
+<div style="display:flex;justify-content:center;gap:25px;margin-top:15px;">
+  <img src="https://img.shields.io/badge/🥇%20Gold-11-FFD700?style=for-the-badge" height="60"/>
+  <img src="https://img.shields.io/badge/🥈%20Silver-5-C0C0C0?style=for-the-badge" height="60"/>
+  <img src="https://img.shields.io/badge/🥉%20Bronze-6-CD7F32?style=for-the-badge" height="60"/>
 </div>
 
+</td>
+</tr>
+</table>
 
-<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_1682a38e-0541-4c7c-bdd9-471ccdb93c9b.jpg" width="240" style="border-radius:50%;margin-top:10px;"/>
+<br>
 
-_Last updated: 2025-09-03 10:13:15 UTC_
+_Last updated: 2025-09-03 15:13:11 UTC_
 
 </div>
 

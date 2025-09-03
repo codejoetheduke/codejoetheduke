@@ -39,10 +39,11 @@
 
 </div>
 
+<br>
 
-<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_1682a38e-0541-4c7c-bdd9-471ccdb93c9b.jpg" width="240" style="border-radius:50%;margin-top:10px;"/>
+<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_1682a38e-0541-4c7c-bdd9-471ccdb93c9b.jpg" width="300" style="border-radius:50%;margin-top:10px;"/>
 
-_Last updated: 2025-09-03 10:13:15 UTC_
+_Last updated: 2025-09-03 10:19:31 UTC_
 
 </div>
 

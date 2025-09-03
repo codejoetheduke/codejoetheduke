@@ -30,22 +30,18 @@
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-10-brightgreen?style=for-the-badge)
 ![Country](https://img.shields.io/badge/🌍%20Country-Ghana-orange?style=for-the-badge)
 
-<br><br>
-
 <!-- 🏅 Medals (Bigger & Centered) -->
 <div style="display:flex;justify-content:center;gap:20px;margin-top:10px;">
   
-<img src="https://img.shields.io/badge/🥇%20Gold-11-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=40" height="60"/>
-<img src="https://img.shields.io/badge/🥈%20Silver-5-C0C0C0?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=40" height="60"/>
-<img src="https://img.shields.io/badge/🥉%20Bronze-6-CD7F32?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=40" height="60"/>
+<img src="https://img.shields.io/badge/🥇%20Gold-11-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=80" height="80"/>
+<img src="https://img.shields.io/badge/🥈%20Silver-5-C0C0C0?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=80" height="80"/>
+<img src="https://img.shields.io/badge/🥉%20Bronze-6-CD7F32?style=for-the-badge&logo=googlechrome&logoColor=black&logoWidth=80" height="80"/>
 
 </div>
 
-<br>
+<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_1682a38e-0541-4c7c-bdd9-471ccdb93c9b.jpg" width="240" style="border-radius:50%;margin-top:10px;"/>
 
-<img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_1682a38e-0541-4c7c-bdd9-471ccdb93c9b.jpg" width="360" style="border-radius:50%;margin-top:10px;"/>
-
-_Last updated: 2025-09-03 09:41:25 UTC_
+_Last updated: 2025-09-03 09:43:42 UTC_
 
 </div>
 

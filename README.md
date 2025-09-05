@@ -28,7 +28,7 @@
 <table>
 <tr>
 <td width="250" align="center">
-  <img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_1de56bc7-9c9c-4e16-92fc-0806cd72c069.jpg" width="200"/>
+  <img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_c7c90e38-dd6c-4cbc-9e53-cbe9f1631f51.jpg" width="200"/>
 </td>
 <td>
 
@@ -50,7 +50,7 @@
 
 <br>
 
-_Last updated: 2025-09-05 06:15:55 UTC_
+_Last updated: 2025-09-05 09:10:55 UTC_
 
 </div>
 

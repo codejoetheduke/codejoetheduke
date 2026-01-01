@@ -2,8 +2,8 @@ name: Update README with Zindi Stats
 
 on:
   schedule:
-    - cron: "0 */3 * * *" # Every 6 hours
-  workflow_dispatch: # Allow manual run
+    - cron: "0 8 * * 1" # Every Monday morning (08:00 UTC)
+  workflow_dispatch:
 
 permissions:
   contents: write

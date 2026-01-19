@@ -32,8 +32,8 @@
 </td>
 <td>
 
-![Rank](https://img.shields.io/badge/🏆%20Rank-11-blueviolet?style=for-the-badge)<br>
-![Points](https://img.shields.io/badge/⭐%20Points-13957-ff69b4?style=for-the-badge)<br>
+![Rank](https://img.shields.io/badge/🏆%20Rank-10-blueviolet?style=for-the-badge)<br>
+![Points](https://img.shields.io/badge/⭐%20Points-14418-ff69b4?style=for-the-badge)<br>
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-9-brightgreen?style=for-the-badge)<br>
 ![Country](https://img.shields.io/badge/🌍%20Country-Ghana-orange?style=for-the-badge)<br><br>
 
@@ -50,7 +50,7 @@
 
 <br>
 
-_Last updated: 2026-01-12 08:24:15 UTC_
+_Last updated: 2026-01-19 08:25:08 UTC_
 
 </div>
 

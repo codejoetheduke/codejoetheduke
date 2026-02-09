@@ -28,12 +28,12 @@
 <table>
 <tr>
 <td width="250" align="center">
-  <img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_c7c90e38-dd6c-4cbc-9e53-cbe9f1631f51.jpg" width="200"/>
+  <img src="https://zindi-public-release.s3.eu-west-2.amazonaws.com/uploads/user/avatar/84824/w400_ee1589c9-afae-4ffd-9b68-1c80d1bf3aac.jpg" width="200"/>
 </td>
 <td>
 
 ![Rank](https://img.shields.io/badge/🏆%20Rank-10-blueviolet?style=for-the-badge)<br>
-![Points](https://img.shields.io/badge/⭐%20Points-14024-ff69b4?style=for-the-badge)<br>
+![Points](https://img.shields.io/badge/⭐%20Points-13857-ff69b4?style=for-the-badge)<br>
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-9-brightgreen?style=for-the-badge)<br>
 ![Country](https://img.shields.io/badge/🌍%20Country-Ghana-orange?style=for-the-badge)<br><br>
 
@@ -50,7 +50,7 @@
 
 <br>
 
-_Last updated: 2026-02-02 08:36:06 UTC_
+_Last updated: 2026-02-09 08:43:13 UTC_
 
 </div>
 

@@ -32,9 +32,9 @@
 </td>
 <td>
 
-![Rank](https://img.shields.io/badge/🏆%20Rank-7-blueviolet?style=for-the-badge)<br>
-![Points](https://img.shields.io/badge/⭐%20Points-16127-ff69b4?style=for-the-badge)<br>
-![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-7-brightgreen?style=for-the-badge)<br>
+![Rank](https://img.shields.io/badge/🏆%20Rank-6-blueviolet?style=for-the-badge)<br>
+![Points](https://img.shields.io/badge/⭐%20Points-16031-ff69b4?style=for-the-badge)<br>
+![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-6-brightgreen?style=for-the-badge)<br>
 ![Country](https://img.shields.io/badge/🌍%20Country-Ghana-orange?style=for-the-badge)<br><br>
 
 <!-- 🏅 Medals -->
@@ -50,7 +50,7 @@
 
 <br>
 
-_Last updated: 2026-10-23 13:13:15 UTC_
+_Last updated: 2026-10-26 14:58:59 UTC_
 
 </div>
 

@@ -32,15 +32,15 @@
 </td>
 <td>
 
-![Rank](https://img.shields.io/badge/🏆%20Rank-6-blueviolet?style=for-the-badge)<br>
-![Points](https://img.shields.io/badge/⭐%20Points-16031-ff69b4?style=for-the-badge)<br>
+![Rank](https://img.shields.io/badge/🏆%20Rank-8-blueviolet?style=for-the-badge)<br>
+![Points](https://img.shields.io/badge/⭐%20Points-14367-ff69b4?style=for-the-badge)<br>
 ![Best Rank](https://img.shields.io/badge/🥇%20Best%20Rank-6-brightgreen?style=for-the-badge)<br>
 ![Country](https://img.shields.io/badge/🌍%20Country-Ghana-orange?style=for-the-badge)<br><br>
 
 <!-- 🏅 Medals -->
 <div style="display:flex;justify-content:center;gap:25px;margin-top:15px;">
-  <img src="https://img.shields.io/badge/🥇%20Gold-20-FFD700?style=for-the-badge" height="60"/>
-  <img src="https://img.shields.io/badge/🥈%20Silver-9-C0C0C0?style=for-the-badge" height="60"/>
+  <img src="https://img.shields.io/badge/🥇%20Gold-19-FFD700?style=for-the-badge" height="60"/>
+  <img src="https://img.shields.io/badge/🥈%20Silver-10-C0C0C0?style=for-the-badge" height="60"/>
   <img src="https://img.shields.io/badge/🥉%20Bronze-13-CD7F32?style=for-the-badge" height="60"/>
 </div>
 
@@ -50,7 +50,7 @@
 
 <br>
 
-_Last updated: 2026-10-26 14:58:59 UTC_
+_Last updated: 2026-10-30 14:55:42 UTC_
 
 </div>
 
